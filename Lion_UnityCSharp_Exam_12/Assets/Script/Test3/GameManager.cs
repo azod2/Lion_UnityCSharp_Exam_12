@@ -26,7 +26,7 @@ public class GameManager : MonoBehaviour
         }
         if (Input.GetKeyDown("o"))
         {
-            SceneManager.LoadScene("Test3-Drawdiamond"); 
+            SceneManager.LoadScene("Test2-RendomGacha"); 
         }
     }
 
