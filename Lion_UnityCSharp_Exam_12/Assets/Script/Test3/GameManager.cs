@@ -22,11 +22,11 @@ public class GameManager : MonoBehaviour
     {
         if (Input.GetKeyDown("p"))
         {
-            SceneManager.LoadScene("Test2-RendomGacha");
+            SceneManager.LoadScene("Test4-RunEvent");
         }
         if (Input.GetKeyDown("o"))
         {
-            SceneManager.LoadScene("Test4-RunEvent");
+            SceneManager.LoadScene("Test3-Drawdiamond"); 
         }
     }
 

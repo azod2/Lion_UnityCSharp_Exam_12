@@ -16,11 +16,11 @@ public class Gamemanager : MonoBehaviour
     {
         if (Input.GetKeyDown("p"))
         {
-            SceneManager.LoadScene("Test3-Drawdiamond");
+            SceneManager.LoadScene("");
         }
         if (Input.GetKeyDown("o"))
         {
-            SceneManager.LoadScene("");
+            SceneManager.LoadScene("Test3-Drawdiamond");
         }
     }
 }

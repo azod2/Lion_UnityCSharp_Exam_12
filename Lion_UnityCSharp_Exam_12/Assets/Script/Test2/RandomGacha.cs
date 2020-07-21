@@ -17,7 +17,7 @@ public class RandomGacha : MonoBehaviour
 
         if (Input.GetKeyDown("p"))
         {
-            SceneManager.LoadScene("Test2-RendomGacha");
+            SceneManager.LoadScene("Test3-Drawdiamond");
         }
         if (Input.GetKeyDown("o"))
         {
